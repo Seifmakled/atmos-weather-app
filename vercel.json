@@ -1,0 +1,6 @@
+{
+  "name": "atmos",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
