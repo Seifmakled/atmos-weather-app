@@ -1,5 +1,9 @@
 # Atmos — A cinematic weather app
 
+### 🌤️ [Live demo → atmos-iota.vercel.app](https://atmos-iota.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-atmos--iota.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atmos-iota.vercel.app/)
+
 A production-quality weather web app that feels like the environment outside your window is reflected on the screen. The atmosphere changes with the weather: sun rays for clear days, animated rain and lightning for storms, drifting clouds, falling snow, a starfield at night.
 
 **New:** iPhone-style weather heat-map page at `/map` — pan and zoom anywhere in the world, switch between precipitation (radar) / temperature / clouds / wind / pressure, scrub through the past two hours of radar with a play/pause control, tap anywhere on the map to read current conditions at that point.
